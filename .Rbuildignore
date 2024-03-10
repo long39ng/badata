@@ -5,3 +5,6 @@
 ^README\.Rmd$
 ^CITATION\.cff$
 ^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
